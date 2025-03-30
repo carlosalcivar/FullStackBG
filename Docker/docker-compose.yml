@@ -1,0 +1,109 @@
+services:
+  tienda_db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: tienda_db
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=${PASSWORD}
+    volumes:
+      - tienda_data:/var/opt/mssql
+    networks:
+       - nt-tienda
+    restart: unless-stopped
+    
+  es-producto:
+    image: "es-producto-1.0.0"
+    container_name: es-producto
+    volumes:
+      - ../vol_app/tienda/es-producto:${LOG_DIRECTORY}
+    depends_on:
+      - tienda_db
+    environment:
+      - TZ=${ZONE_TIME}
+      - MEMORY_LIMIT=250m
+      - ISSUER=${ISSUER}
+      - AUDIENCE=${AUDIENCE}
+      - KEYSECERT=${KEYSECERT}
+      - EXPIRE=${EXPIRE}
+      - LOG_DIRECTORY=${LOG_DIRECTORY}
+      - HOSTNAME=${HOSTNAME}
+      - PORT=${PORT}
+      - DBNAME=${DBNAME}
+      - USER=${USER}
+      - PASSWORD=${PASSWORD}
+      - ORIGIN_CORS=${ORIGIN_CORS}
+      #Ambiente desarrollo habilita swagger
+      - ASPNETCORE_ENVIRONMENT=${ASPNETCORE_ENVIRONMENT}
+    ports:
+       - "5001:8080"
+    networks:
+       - nt-tienda
+    deploy:
+      resources:
+        limits:
+          cpus: "0.5"
+          memory: 250M
+
+  ms-loguearusuario:
+    image: "ms-loguearusuario-1.0.0"
+    container_name: ms-loguearusuario
+    volumes:
+      - ../vol_app/tienda/ms-loguearusuario:${LOG_DIRECTORY}
+    environment:
+      - TZ=${ZONE_TIME}
+      - MEMORY_LIMIT=250m
+      - ISSUER=${ISSUER}
+      - AUDIENCE=${AUDIENCE}
+      - KEYSECERT=${KEYSECERT}
+      - KEYENCRIT=${KEYENCRIT}
+      - EXPIRE=${EXPIRE}
+      - LOG_DIRECTORY=${LOG_DIRECTORY}
+      - HOSTNAME=${HOSTNAME}
+      - PORT=${PORT}
+      - DBNAME=${DBNAME}
+      - USER=${USER}
+      - PASSWORD=${PASSWORD}
+      - ORIGIN_CORS=${ORIGIN_CORS}
+      #Ambiente desarrollo habilita swagger
+      - ASPNETCORE_ENVIRONMENT=${ASPNETCORE_ENVIRONMENT}
+    ports:
+       - "5002:8080"
+    networks:
+       - nt-tienda
+    deploy:
+      resources:
+        limits:
+          cpus: "0.5"
+          memory: 250M
+
+  portal:
+    image: "portal-1.0.0"
+    container_name: portal
+    volumes:
+      - ../vol_app/tienda/portal:/var/log/nginx/
+    depends_on:
+      - tienda_db
+    environment:
+      - TZ=${ZONE_TIME}
+      - MEMORY_LIMIT=250m
+    ports:
+       - "5000:80"
+    networks:
+       - nt-tienda
+    deploy:
+      resources:
+        limits:
+          cpus: "0.5"
+          memory: 250M
+
+volumes:
+  tienda_data:
+
+networks:
+  nt-tienda:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 10.35.2.0/24

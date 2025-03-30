@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\es-producto.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:es-producto.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\utils\\datavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:utils\\datavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\es-producto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:es-producto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\service\\impl\\serviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:service\\impl\\serviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\controllers\\impl\\controllerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:controllers\\impl\\controllerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\repository\\impl\\repositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:repository\\impl\\repositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\controllers\\constans\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:controllers\\constans\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\utils\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:utils\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\utils\\converts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:utils\\converts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\repository\\contract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:repository\\contract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\repository\\db\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:repository\\db\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\controllers\\constans\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:controllers\\constans\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\service\\contract\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:service\\contract\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\controllers\\type\\productotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:controllers\\type\\productotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\repository\\model\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:repository\\model\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|c:\\users\\julio\\documents\\clientes\\alcivar\\es-producto\\controllers\\constans\\mimetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DE9074-B6BE-46B6-AB5F-B8E73E2E1AA2}|es-producto.csproj|solutionrelative:controllers\\constans\\mimetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "es-producto.http",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\es-producto.http",
+              "RelativeDocumentMoniker": "es-producto.http",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\es-producto.http",
+              "RelativeToolTip": "es-producto.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-30T13:49:51.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Service\\Impl\\ServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\ServiceImpl.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Service\\Impl\\ServiceImpl.cs",
+              "RelativeToolTip": "Service\\Impl\\ServiceImpl.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwI8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:05:18.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mensajes.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Controllers\\Constans\\Mensajes.cs",
+              "RelativeDocumentMoniker": "Controllers\\Constans\\Mensajes.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Controllers\\Constans\\Mensajes.cs",
+              "RelativeToolTip": "Controllers\\Constans\\Mensajes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:03:07.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwJ4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:43:50.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Repository\\Impl\\RepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\Impl\\RepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Repository\\Impl\\RepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\Impl\\RepositoryImpl.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAwMEAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:16:26.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T22:43:24.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataValidator.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Utils\\DataValidator.cs",
+              "RelativeDocumentMoniker": "Utils\\DataValidator.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Utils\\DataValidator.cs",
+              "RelativeToolTip": "Utils\\DataValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:47:07.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceException.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Utils\\ServiceException.cs",
+              "RelativeDocumentMoniker": "Utils\\ServiceException.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Utils\\ServiceException.cs",
+              "RelativeToolTip": "Utils\\ServiceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:47:35.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControllerImpl.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Controllers\\Impl\\ControllerImpl.cs",
+              "RelativeDocumentMoniker": "Controllers\\Impl\\ControllerImpl.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Controllers\\Impl\\ControllerImpl.cs",
+              "RelativeToolTip": "Controllers\\Impl\\ControllerImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:50:38.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T01:10:28.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Repository\\Contract\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Contract\\IRepository.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Repository\\Contract\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Contract\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:15:42.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Converts.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Utils\\Converts.cs",
+              "RelativeDocumentMoniker": "Utils\\Converts.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Utils\\Converts.cs",
+              "RelativeToolTip": "Utils\\Converts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:46:54.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T01:21:21.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Repository\\Db\\Context.cs",
+              "RelativeDocumentMoniker": "Repository\\Db\\Context.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Repository\\Db\\Context.cs",
+              "RelativeToolTip": "Repository\\Db\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:39:53.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "es-producto.csproj",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\es-producto.csproj",
+              "RelativeDocumentMoniker": "es-producto.csproj",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\es-producto.csproj",
+              "RelativeToolTip": "es-producto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T22:41:46.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductoType.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Controllers\\Type\\ProductoType.cs",
+              "RelativeDocumentMoniker": "Controllers\\Type\\ProductoType.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Controllers\\Type\\ProductoType.cs",
+              "RelativeToolTip": "Controllers\\Type\\ProductoType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T00:06:59.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "General.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Controllers\\Constans\\General.cs",
+              "RelativeDocumentMoniker": "Controllers\\Constans\\General.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Controllers\\Constans\\General.cs",
+              "RelativeToolTip": "Controllers\\Constans\\General.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:45:45.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Service\\Contract\\IService.cs",
+              "RelativeDocumentMoniker": "Service\\Contract\\IService.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Service\\Contract\\IService.cs",
+              "RelativeToolTip": "Service\\Contract\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:05:02.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T01:10:44.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Repository\\Model\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "Repository\\Model\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Repository\\Model\\ProductoDTO.cs",
+              "RelativeToolTip": "Repository\\Model\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:17:43.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MimeType.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Controllers\\Constans\\MimeType.cs",
+              "RelativeDocumentMoniker": "Controllers\\Constans\\MimeType.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\Clientes\\Alcivar\\es-producto\\Controllers\\Constans\\MimeType.cs",
+              "RelativeToolTip": "Controllers\\Constans\\MimeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:46:16.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

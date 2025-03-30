@@ -1,0 +1,64 @@
+<div class="dialog-container">
+  <div class="dialog-header">
+    <h3 mat-dialog-title class="header-title">
+      {{ isCreateMode ? 'Crear Nuevo Producto' : 'Editar Producto: ' }}
+      <span class="product-name" [title]="data.producto?.nombre">
+        {{ isCreateMode ? '' : data.producto?.nombre }}
+      </span>
+    </h3>
+    <button mat-icon-button (click)="onCancel()" class="close-button">
+      <mat-icon>close</mat-icon>
+    </button>
+  </div>
+
+  <mat-divider></mat-divider>
+
+  <div mat-dialog-content class="dialog-content">
+    <form [formGroup]="form" class="form-container">
+      
+      <mat-form-field appearance="outline" class="field">
+        <mat-label>Nombre Producto</mat-label>
+        <mat-icon matPrefix>inventory_2</mat-icon>
+        <input matInput formControlName="nombre" placeholder="Introduzca el nombre del producto" />
+        <mat-error *ngIf="f['nombre']?.errors?.['required']">Se requiere nombre</mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="field">
+        <mat-label>SKU</mat-label>
+        <mat-icon matPrefix>qr_code</mat-icon>
+        <input matInput formControlName="sku" placeholder="Ingrese el código SKU" />
+        <mat-error *ngIf="f['sku']?.errors?.['required']">Se requiere SKU</mat-error>
+      </mat-form-field>
+      
+
+      <mat-form-field appearance="outline" class="field">
+        <mat-label>Descripción</mat-label>
+        <mat-icon matPrefix>description</mat-icon>
+        <textarea matInput rows="4" formControlName="descripcion" 
+                  placeholder="Ingrese la descripción detallada del producto"></textarea>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="field">
+        <mat-label>Estado</mat-label>
+        <mat-icon matPrefix>check_circle</mat-icon>
+        <mat-select formControlName="estado" placeholder="Seleccione el estado del producto">
+          <mat-option [value]="'A'">Activo</mat-option>
+          <mat-option [value]="'I'">Inactivo</mat-option>
+        </mat-select>
+      </mat-form-field>
+    </form>
+  </div>
+
+  <mat-divider></mat-divider>
+
+  <div mat-dialog-actions class="dialog-footer">
+    <button mat-button (click)="onCancel()">
+      <mat-icon>close</mat-icon>
+      Cancel
+    </button>
+    <button mat-raised-button color="primary" (click)="onSave()">
+      <mat-icon>{{ isCreateMode ? 'add_circle' : 'save' }}</mat-icon>
+      {{ isCreateMode ? 'Crear Producto' : 'Guardar Cambios' }}
+    </button>
+  </div>
+</div>

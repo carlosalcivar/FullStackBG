@@ -1,0 +1,57 @@
+[
+  {
+    "ContainingType": "ms_loguearusuario.Controllers.Impl.ControllerImpl",
+    "Method": "Login",
+    "RelativePath": "v1/ms/loguearusuario/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestLoginType",
+        "Type": "ms_loguearusuario.Controllers.Type.RequestLoginType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ms_loguearusuario.Controllers.Type.ResponseLoginType",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 500
+      },
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 502
+      }
+    ],
+    "Tags": [
+      "loguearusuario"
+    ]
+  }
+]
